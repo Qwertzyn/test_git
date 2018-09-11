@@ -1,1 +1,3 @@
 Un fichier contenant quelque chose
+
+Nouvelle ligne de texte innutile
